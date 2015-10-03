@@ -84,6 +84,19 @@
 		};
 /* End PBXContainerItemProxy section */
 
+/* Begin PBXCopyFilesBuildPhase section */
+		182CF92E1BBFA63B00AEC514 /* Embed Frameworks */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+			);
+			name = "Embed Frameworks";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
 /* Begin PBXFileReference section */
 		18AD3A351BBDD4270021586B /* HNApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HNApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		18AD3A391BBDD4270021586B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -370,6 +383,7 @@
 				18AD3A311BBDD4270021586B /* Sources */,
 				18AD3A321BBDD4270021586B /* Frameworks */,
 				18AD3A331BBDD4270021586B /* Resources */,
+				182CF92E1BBFA63B00AEC514 /* Embed Frameworks */,
 			);
 			buildRules = (
 			);
@@ -404,6 +418,7 @@
 		18AD3A2D1BBDD4270021586B /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0700;
 				LastUpgradeCheck = 0640;
 				ORGANIZATIONNAME = XiaoHuang;
 				TargetAttributes = {
@@ -702,6 +717,7 @@
 				18AD3A591BBDD4270021586B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		18AD3A5A1BBDD4270021586B /* Build configuration list for PBXNativeTarget "HNAppTests" */ = {
 			isa = XCConfigurationList;
@@ -710,6 +726,7 @@
 				18AD3A5C1BBDD4270021586B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 

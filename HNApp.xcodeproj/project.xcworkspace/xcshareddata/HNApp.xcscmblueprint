@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "63F78A6B6600099238A3BA1B9B2866548163743B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "63F78A6B6600099238A3BA1B9B2866548163743B" : 0,
+    "38F7D0435955DFD1D50DBC02D5F6CBFEC80BE3A6" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "870E8C7C-EC2E-4745-A6C0-173761A7E5F2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "63F78A6B6600099238A3BA1B9B2866548163743B" : "HackerNewsApp_Swift1.2\/",
+    "38F7D0435955DFD1D50DBC02D5F6CBFEC80BE3A6" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "HNApp",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "HNApp.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/xhuang89\/xhuang89.github.io.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "38F7D0435955DFD1D50DBC02D5F6CBFEC80BE3A6"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/xhuang68\/HackerNewsApp_Swift1.2.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "63F78A6B6600099238A3BA1B9B2866548163743B"
+    }
+  ]
+}
